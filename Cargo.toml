@@ -1,0 +1,10 @@
+[package]
+name = "nova"
+version = "0.1.0"
+authors = ["Aza Walker"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+termion = "3.0.0"
