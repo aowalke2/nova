@@ -4,15 +4,17 @@
   - [ ] Insert and delete charactes
   - [ ] Copy, cutting, and pasting
 - [ ] Navigation
-  - [ ] Moving the cursor within text
+  - [x] Moving the cursor within text
+  - [x] Scrolling
   - [ ] Navigating between lines
-    - [ ] Arrays and other buttons
 - [ ] Undo/Redo
 - [ ] Searching and Replacing
 - [ ] SpellCheck and Dictionary
 - [ ] Syntax highlighting
 - [ ] File Operations
-  - [ ] Opening, Saving, and Closing files
-  - [ ] Creating and Deleting files
-- [ ] Window sizing
-- [ ] Scrolling
+  - [x] Opening
+  - [ ] Saving
+  - [ ] Closing
+  - [ ] Creating
+  - [ ] Deleting
+- [x] Window sizing
