@@ -18,3 +18,5 @@
   - [ ] Creating
   - [ ] Deleting
 - [x] Window sizing
+- [ ] Tests
+- [ ] Use [ratatui](https://github.com/ratatui-org/ratatui)
