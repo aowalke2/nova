@@ -9,8 +9,10 @@ The plan is to start of following this [tutorial](https://www.flenker.blog/hecto
   - [x] Moving the cursor within text
   - [x] Scrolling
   - [ ] Navigating between lines
-- [ ] Undo/Redo
-- [ ] Searching and Replacing
+- [ ] Undo
+- [ ] Redo
+- [ ] Searching
+- [ ] Replacing
 - [ ] SpellCheck and Dictionary
 - [ ] Syntax highlighting
 - [x] File Operations
