@@ -1,7 +1,7 @@
 # Nova - A text editor written in Rust
 
 - [ ] Text editing
-  - [ ] Insert and delete charactes
+  - [x] Insert and delete charactes
   - [ ] Copy, cutting, and pasting
 - [ ] Navigation
   - [x] Moving the cursor within text
@@ -11,12 +11,12 @@
 - [ ] Searching and Replacing
 - [ ] SpellCheck and Dictionary
 - [ ] Syntax highlighting
-- [ ] File Operations
+- [x] File Operations
   - [x] Opening
-  - [ ] Saving
-  - [ ] Closing
-  - [ ] Creating
-  - [ ] Deleting
+  - [x] Saving
+  - [x] Closing
+  - [x] Creating
+  - [x] Deleting
 - [x] Window sizing
 - [ ] Tests
 - [ ] Use [ratatui](https://github.com/ratatui-org/ratatui)
