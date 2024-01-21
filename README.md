@@ -1,5 +1,7 @@
 # Nova - A text editor written in Rust
 
+The plan is to start of following this [tutorial](https://www.flenker.blog/hecto/) and then add some more features.
+
 - [ ] Text editing
   - [x] Insert and delete charactes
   - [ ] Copy, cutting, and pasting
